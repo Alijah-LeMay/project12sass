@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0; }
+
+h1 {
+  color: #eee;
+  font-family: Gerogia, Times, serif; }
+
+#footer {
+  color: white;
+  background-color: #333; }
+
+#header {
+  text-align: center;
+  display: block;
+  width: 100%;
+  background-color: #008975; }
+  #header h1 {
+    margin: 0;
+    padding: 10px 0; }
+
+.btn-lg {
+  padding: 30px 40px;
+  background-color: green;
+  color: white; }
+
+.btn-sm {
+  padding: 10px 15px;
+  background-color: teal;
+  color: black cd pro; }
+
+.main-nav {
+  background-color: grey;
+  border: 1px solid black; }
+
+/*# sourceMappingURL=app.css.map */
